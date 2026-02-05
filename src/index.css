@@ -62,5 +62,11 @@
     --radius-2xl:14px;
     --radius-3xl:16px;
     --radius-5xl:20px;
+}
 
+@utility icon-primary-* {
+  --icon-primary-color: --value(--color-*);
+}
+@utility icon-secondary-* {
+  --icon-icon-secondary-color: --value(--color-*);
 }

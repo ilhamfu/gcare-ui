@@ -3,6 +3,7 @@ import type { Meta, StoryObj } from '@storybook/react';
 import DetailCard from '../components/detail-card.tsx';
 
 const meta = {
+  title: "Molecule/DetailCard",
   component: DetailCard,
   argTypes: {
     size: {

@@ -3,6 +3,7 @@ import type { Meta, StoryObj } from '@storybook/react';
 import Button from '../components/button';
 
 const meta = {
+  title: "Atom/Button/Button",
   component: Button,
   argTypes: {
     size: {

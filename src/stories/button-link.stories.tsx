@@ -3,6 +3,7 @@ import type { Meta, StoryObj } from '@storybook/react';
 import Button from '../components/button-link.tsx';
 
 const meta = {
+  title: "Atom/Button/ButtonLink",
   component: Button,
   argTypes: {
     size: {
