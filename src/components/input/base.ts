@@ -1,0 +1,1 @@
+export const input_class_base = "border border-grey-600 bg-white px-3 flex items-center gap-x-2 group/input focus-within:border-secondary-default has-[:not(:focus):not(:placeholder-shown):invalid]:border-alert-negative has-[.invalid]:has-[:not(:focus):not(:placeholder-shown)]:border-alert-negative has-[:disabled]:border-grey-400";

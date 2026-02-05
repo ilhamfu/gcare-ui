@@ -1,0 +1,66 @@
+@import "tailwindcss";
+ 
+@theme {
+    --color-primary-default: #c89e85;
+    --color-primary-light: #faf5f3;
+    --color-primary-light-hover: #f7f0ed;
+    --color-primary-light-active: #eee1d9;
+    --color-primary-hover: #b48e78;
+    --color-primary-active: #a07e6a;
+    --color-primary-dark: #967764;
+    --color-primary-dark-hover: #785f50;
+    --color-primary-dark-active: #5a473c;
+    --color-primary-darker: #46372f;
+    --color-secondary-default: #ffb45d;
+    --color-secondary-light: #fff8ef;
+    --color-secondary-light-hover: #fff4e7;
+    --color-secondary-light-active: #ffe8cd;
+    --color-secondary-hover: #e6a254;
+    --color-secondary-active: #cc904a;
+    --color-secondary-dark: #bf8746;
+    --color-secondary-dark-hover: #996c38;
+    --color-secondary-dark-active: #73512a;
+    --color-secondary-darker: #593f21;
+    --color-tertiary-default: #1a315f;
+    --color-tertiary-light: #e8eaef;
+    --color-tertiary-light-hover: #dde0e7;
+    --color-tertiary-light-active: #b8bfcd;
+    --color-tertiary-hover: #172c56;
+    --color-tertiary-active: #15274c;
+    --color-tertiary-dark: #142547;
+    --color-tertiary-dark-hover: #101d39;
+    --color-tertiary-dark-active: #0c162b;
+    --color-tertiary-darker: #091121;
+    --color-grey-50: #f6f6f6;
+    --color-grey-100: #eeeeee;
+    --color-grey-200: #e2e2e2;
+    --color-grey-400: #afafaf;
+    --color-grey-500: #757575;
+    --color-grey-600: #545454;
+    --color-alert-neutral: #a0bff8;
+    --color-alert-positive-light: #e6f4ed;
+    --color-alert-positive: #05944f;
+    --color-alert-warning: #fa9269;
+    --color-alert-negative-light: #fce8e6;
+    --color-alert-negative: #e11900;
+    
+    --text-3xl: 40px;
+    --text-3xl--line-height:110%;
+    --text-2xl:32px;
+    --text-2xl--line-height: 120%;
+    --text-xl: 24px;
+    --text-xl--line-height: 120%;
+    --text-lg:20px;
+    --text-lg--line-height:140%;
+    --text-base:16px;
+    --text-base--line-height:140%;
+    --text-sm:14px;
+    --text-sm--line-height:140%;
+    --text-xs:12px;
+    --text-2xs:10px;
+    --text-3xs:8px;
+    --radius-2xl:14px;
+    --radius-3xl:16px;
+    --radius-5xl:20px;
+
+}
